@@ -49,8 +49,6 @@ Currently open to collaborations, internships, and projects that challenge me to
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Kritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritika85&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika85&layout=compact&theme=tokyonight)
 
